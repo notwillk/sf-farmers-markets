@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Heart of the City",
+        "coordinates": [37.779994, -122.413880],
+        "start": "2024-03-17T14:00:00.000Z",
+        "end": "2024-03-17T23:00:00.000Z",
+        "days": ["wednesday", "sunday"],
+        "months": [1,2,3,4,5,6,7,8,9,10,11,12],
+        "url": "https://heartofthecity-farmersmar.squarespace.com/",
+        "validFrom": "1900-01-01",
+        "validUntil": "2030-01-01"
+    }
+]
